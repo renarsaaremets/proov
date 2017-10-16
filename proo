@@ -1,0 +1,5 @@
+#!/bin/bash
+#
+# proovi skript
+#
+echo "esimene skript"
